@@ -1,0 +1,2 @@
+# js_qrcode
+jsqrcode
